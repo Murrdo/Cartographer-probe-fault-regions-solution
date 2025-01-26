@@ -51,6 +51,8 @@ AXIS_TWIST_COMPENSATION_CALIBRATE AXIS=Y SAMPLE_COUNT=30
 ```
 После чего перекалибровать модель картографера.
 
+<details>
+  <summary>Фото  (<i>Старая версия совсем ручной калибровки</i>)</summary>
 
 
 ### Подготовка:
@@ -126,7 +128,7 @@ CARTOGRAPHER_CALIBRATE METHOD=MANUAL
 Результат после подбора значений, дающий хороший первый слой
 
 
-
+</details>
 
 ![image](https://github.com/user-attachments/assets/f5d1a68d-106c-4e14-a717-958b1032b12c)
 
