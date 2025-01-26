@@ -52,7 +52,7 @@ AXIS_TWIST_COMPENSATION_CALIBRATE AXIS=Y SAMPLE_COUNT=30
 После чего перекалибровать модель картографера.
 
 <details>
-  <summary>Фото  (<i>Старая версия совсем ручной калибровки</i>)</summary>
+  <summary>Старая версия совсем ручной калибровки  (<i>click to expand</i>)</summary>
 
 
 ### Подготовка:
