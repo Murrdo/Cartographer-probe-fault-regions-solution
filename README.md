@@ -15,6 +15,8 @@
 ![image](https://github.com/user-attachments/assets/6abfd4bc-abc3-440b-85c4-f768bd32a737)
 
 <details>
+
+<details>
   <summary>Старая версия гайда  (<i>click to expand</i>)</summary>
 
             
